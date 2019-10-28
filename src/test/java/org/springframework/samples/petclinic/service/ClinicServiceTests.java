@@ -214,5 +214,10 @@ class ClinicServiceTests {
         assertThat(visitArr[0].getDate()).isNotNull();
         assertThat(visitArr[0].getPetId()).isEqualTo(7);
     }
+    
+    @Test
+    void pullTest(){
+    System.out.println("I pull changes")
+    }
 
 }
