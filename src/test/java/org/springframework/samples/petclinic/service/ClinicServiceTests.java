@@ -217,7 +217,7 @@ class ClinicServiceTests {
     
     @Test
     void pullTest(){
-    System.out.println("I pull changes")
+    System.out.println("I pull changes"
     }
 
 }
